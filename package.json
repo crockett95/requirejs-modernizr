@@ -1,0 +1,25 @@
+{
+  "name": "requirejs-modernizr",
+  "version": "0.0.0",
+  "description": "A Require.js plugin for Modernizr tests",
+  "main": "modernizr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modernizr",
+    "require",
+    "requirejs",
+    "amd"
+  ],
+  "author": "Steve Crockett <crockett95@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crockett95/requirejs-modernizr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crockett95/requirejs-modernizr/issues"
+  },
+  "homepage": "https://github.com/crockett95/requirejs-modernizr"
+}

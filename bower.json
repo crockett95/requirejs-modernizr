@@ -1,0 +1,27 @@
+{
+  "name": "requirejs-modernizr",
+  "version": "0.0.0",
+  "authors": [
+    "Steve Crockett <crockett95@gmail.com>"
+  ],
+  "description": "A Require.js plugin for Modernizr tests",
+  "main": "modernizr.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "modernizr",
+    "require",
+    "requirejs",
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/crockett95/requirejs-modernizr"
+}
